@@ -3,7 +3,8 @@
 <head>
     <meta charset="utf-8">
     <title>MovieTrack</title>
-    <link rel="stylesheet" type="text/css" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" type="text/css" href="node_modules/bootstrap/dist/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" type="text/css" href="main.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -16,8 +17,12 @@
 </head>
 <body>
 <div class="container">
-    <h1 class="page-header text-center mt-5">MovieTrack</h1>
-    <p class="text-center">An XML based movie CRUD database • Ivan Gonzales BSIT 3DG2</p>
+    <div class="text-center">
+    <h1 class="page-header mt-5">MovieTrack</h1>
+    <p class="">An XML based movie CRUD database<br><b>Ivan Gonzales • BSIT 3DG2</b><br></p>
+    <a class="" href="https://github.com/ItsIvanG/wst_final/"><i class="bi bi-github"></i> GitHub Repo</a>
+    </div>
+   
     <div class="row">
         <div class="col-md-8 offset-md-2">
            
@@ -127,7 +132,9 @@
             $('#gridViewButton').removeClass('active');
             $('#tableViewButton').addClass('active');
         });
+        
     });
 </script>
+
 </html>
 
