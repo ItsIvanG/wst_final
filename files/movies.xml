@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<movies>
+  <movie>
+    <poster>https://m.media-amazon.com/images/M/MV5BMTU1Y2EzYTQtNDE2Zi00YmY0LTlhOTMtNjA1NzVlZTczMTFlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg</poster>
+    <title>The Eras Tour</title>
+    <year>2024-05-23</year>
+    <genre>Romance</genre>
+    <rating>&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</rating>
+    <id>1</id>
+  </movie>
+  <movie>
+    <poster>https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg</poster>
+    <title>Oppenheimer</title>
+    <year>2024-05-31</year>
+    <genre>Fantasy</genre>
+    <rating>&#x2605;&#x2605;&#x2605;&#x2606;&#x2606;</rating>
+    <id>66501d686c896</id>
+  </movie>
+  <movie>
+    <title>Barbie</title>
+    <year>2022-08-17</year>
+    <genre>Drama</genre>
+    <rating>&#x2605;&#x2605;&#x2605;&#x2605;&#x2606;</rating>
+    <id>66501fdc54c08</id>
+    <poster>https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg</poster>
+  </movie>
+  <movie>
+    <poster>https://resizing.flixster.com/dMJO96IcJPA2EBIn3E-Fp8NdbBQ=/206x305/v2/https://resizing.flixster.com/9G1lxDNFoAZy77XHEELQIrTB7_0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhjZDliZWNjLTgzNGQtNDJmNC1iYjlhLTE4YjNlYWY1MGQ3NC5qcGc=</poster>
+    <title>Challengers</title>
+    <year>2024-07-17</year>
+    <genre>Romance</genre>
+    <rating>&#x2605;&#x2605;&#x2605;&#x2605;&#x2606;</rating>
+    <id>665060a14546f</id>
+  </movie>
+  <movie>
+    <poster>https://i.ebayimg.com/images/g/zfoAAOSw2Whdip7U/s-l1600.jpg</poster>
+    <title> El Camino: A Breaking Bad Movie</title>
+    <year>2023-06-06</year>
+    <genre>Action</genre>
+    <rating>&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</rating>
+    <id>66507c6824e68</id>
+  </movie>
+  <movie>
+    <poster>https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</poster>
+    <title>Interstellar</title>
+    <year>2024-05-06</year>
+    <genre>Sci-Fi</genre>
+    <rating>&#x2605;&#x2605;&#x2605;&#x2605;&#x2606;</rating>
+    <id>66507ce37baf6</id>
+  </movie>
+</movies>
